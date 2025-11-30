@@ -4,8 +4,7 @@ collections ,environments ,collections ,and workspaces ,requests ....
 
 
 ## atructure 
-postman-database/
-│
+
 ├── schema.sql -- All CREATE TABLE + constraints for the database
 ├── insert_data.sql -- 
 └── erd.png -- Entity Relationship Diagram
