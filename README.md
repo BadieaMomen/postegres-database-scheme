@@ -135,4 +135,4 @@ Relationship:
 # ERD(ENTITY RELATIONSHAP DAIGRAM)
 
 this is the erd that can help u to understand the scheme easily 
-`ERD.png`
+![ERD Diagram](./ERD.png)
